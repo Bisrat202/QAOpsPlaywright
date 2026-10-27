@@ -17,7 +17,7 @@ const config =({
 
    use: {
 
-    browserName: 'Chromium'
+       browserName: 'chromium',
 
     },
 
